@@ -1,15 +1,20 @@
 [
     {
-        "online": "12",
-        "maxonline": "1000",
-        "color": "ff0000",
-        "x2": "true",
-        "key": "1424",
-        "name": "DREAM RUSSIA",
-        "firstname": "RED",
-        "secondname": "",
-        "url": "red.dreamrussia.com",
-        "ip": "127.0.0.1",
-        "port": "7777"
+      "color": "0000ff",
+      "dopname": "(X2)",
+      "maxonline": 1000,
+      "name": "ICE",
+      "online": 47,
+      "leikton_host": "164.132.200.55",
+      "leikton_port": 1442
+    },
+    {
+      "color": "00FFff",
+      "dopname": "[X3]",
+      "maxonline": 1000,
+      "name": "BLACK",
+      "online": 15,
+      "leikton_host": "164.132.200.55",
+      "leikton_port": 1442
     }
 ]
